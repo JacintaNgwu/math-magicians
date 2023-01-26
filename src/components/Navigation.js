@@ -1,12 +1,12 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import '../styles/Navigation.css';
+import './styles/Navigation.css';
 
 const Navigation = () => (
   <nav>
     <h1 className="navHead">Math Magicians</h1>
     <div className="list">
-      <NavLink exact to="/" activeClassName="active" className="link">
+      <NavLink exact="true" to="/" activeClassName="active" className="link">
         Home
       </NavLink>
       <span className="vr" />

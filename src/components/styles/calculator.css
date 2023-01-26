@@ -1,10 +1,22 @@
+.calculate {
+  justify-content: space-between;
+  margin: 50px;
+}
+
+.math h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 0;
+  padding: 0;
+}
+
 .calculator {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 100%;
-  height: 100vh;
+  height: 70vh;
 }
 
 .calculator__display {
