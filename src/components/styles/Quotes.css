@@ -1,0 +1,13 @@
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.5;
+    margin-top: 350px;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+  }
