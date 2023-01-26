@@ -51,8 +51,8 @@
 
 ### Key Features <a name="key-features"></a>
 
--[ ] **Make calculations**
--[ ] **Read a Math quote**
+- [ ] **Make calculations**
+- [ ] **Read a Math quote**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
