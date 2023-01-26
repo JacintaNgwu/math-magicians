@@ -51,8 +51,8 @@
 
 ### Key Features <a name="key-features"></a>
 
--[ ] **Make calculations**
--[ ] **Read a Math quote**
+- [ ] **Make calculations**
+- [ ] **Read a Math quote**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -62,7 +62,7 @@
 
 > Click the link below to deploy this project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://math-magicians-o71b.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
