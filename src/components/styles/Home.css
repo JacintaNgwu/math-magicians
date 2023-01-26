@@ -1,0 +1,8 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100vh;
+  margin: 50px;
+  font-size: calc(10px + 2vmin);
+}

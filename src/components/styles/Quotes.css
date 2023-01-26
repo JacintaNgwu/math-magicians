@@ -1,0 +1,12 @@
+.quote {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.5;
+  margin-top: 200px;
+  text-align: center;
+  width: 100%;
+}

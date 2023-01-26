@@ -51,8 +51,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Make calculations**
-- **Read a Math quote**
+-[ ] **Make calculations**
+-[ ] **Read a Math quote**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,9 +120,9 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Home page**
+- [ ] **Calculation page**
+- [ ] **Quote page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
